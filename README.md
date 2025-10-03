@@ -1,1 +1,1 @@
-# NMRspectroscopy
+# Spin Dynamics and NMR Spectroscopy
